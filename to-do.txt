@@ -1,0 +1,23 @@
+* Sign-In : If the user already exists and the password is correct redirect them to the user dashboard.
+            Else if the user doesn't exist redirect to Sign-Up page.
+
+* Sign-Up : If the username and email doesn't exist on the DB add the user to the DB.
+
+* Admin vs User : According to the user privelage redirect them to the admin_page or the client_page.
+
+* Admin Dashboard : Add/Delete new sports and the number of courts available.
+                    Set active days and hours.
+                    Set pricing.
+                    Overide bookings.
+                    Change uname & pword.
+
+* Client Dashboard : Select Sports, date and time for booking.
+                     Show notfictions about upcomming bookings.
+                     Cancel Booking.
+                     Change uname & pword.
+
+* Home Page : About arena
+              Contacts.
+              Available Sports.  
+              Gallery.
+              Booking without signin.
